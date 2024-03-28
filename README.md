@@ -1,2 +1,2 @@
-# Architecture_MLOps_replication_package
-The replication package of the systematic mapping study on architecture of MLOps workflows
+# MLOps-architecture-mapping-study-rep-pkg
+The replication package of the systematic mapping study on the architecture of MLOps workflows
