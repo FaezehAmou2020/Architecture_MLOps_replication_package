@@ -1,4 +1,4 @@
-#An Analysis of MLOps Architectures: A Systematic Mapping Study
+<H3> An Analysis of MLOps Architectures: A Systematic Mapping Study </H3>
 
 This repository contains all the data, scripts, and documents that can assist the readers in replicating our research.
 The following are included in this replication package:
